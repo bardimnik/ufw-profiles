@@ -1,0 +1,4 @@
+[VPN]
+title=ikev2-vpn-server
+description=ikev2-vpn-server
+ports=4500/udp

@@ -1,0 +1,4 @@
+[Torrent]
+title=torrent
+description=Open ports for Torrent
+ports=59696

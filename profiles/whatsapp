@@ -1,0 +1,4 @@
+[whatsapp]
+title=whatsapp
+description=Rules for Whatsapp working
+ports=53,80,443,5222,5223,5228,16393:16472/udp
